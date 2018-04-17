@@ -2,6 +2,9 @@ print "hello world"
 def add(x,y)
     return x+y
 
+def cut(x,y)
+    return x-y
+
 class ID():
     def __init__():
         self.name = "ZXQ"
